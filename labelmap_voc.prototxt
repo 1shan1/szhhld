@@ -1,0 +1,105 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "hong-zhi-shu"
+  label: 1
+  display_name: "hong-zhi-shu"
+}
+item {
+  name: "lv-zhi-shu"
+  label: 2
+  display_name: "lv-zhi-shu"
+}
+item {
+  name: "hong-zuo-shu"
+  label: 3
+  display_name: "hong-zuo-shu"
+}
+item {
+  name: "huang-zhi-shu"
+  label: 4
+  display_name: "huang-zhi-shu"
+}
+item {
+  name: "lv-zuo-shu"
+  label: 5
+  display_name: "lv-zuo-shu"
+}
+item {
+  name: "hei-shu"
+  label: 6
+  display_name: "hei-shu"
+}
+item {
+  name: "hong-you-shu"
+  label: 7
+  display_name: "hong-you-shu"
+}
+item {
+  name: "lv-you-shu"
+  label: 8
+  display_name: "lv-you-shu"
+}
+item {
+  name: "hei-heng"
+  label: 9
+  display_name: "hei-heng"
+}
+item {
+  name: "lv-zhi-heng"
+  label: 10
+  display_name: "lv-zhi-heng"
+}
+item {
+  name: "lv-you-heng"
+  label: 11
+  display_name: "lv-you-heng"
+}
+item {
+  name: "lv-zuo-heng"
+  label: 12
+  display_name: "lv-zuo-heng"
+}
+item {
+  name: "huang-you-shu"
+  label: 13
+  display_name: "huang-you-shu"
+}
+item {
+  name: "huang-zuo-shu"
+  label: 14
+  display_name: "huang-zuo-shu"
+}
+item {
+  name: "huang-zhi-heng"
+  label: 15
+  display_name: "huang-zhi-heng"
+}
+item {
+  name: "huang-you-heng"
+  label: 16
+  display_name: "huang-you-heng"
+}
+item {
+  name: "huang-zuo-heng"
+  label: 17
+  display_name: "huang-zuo-heng"
+}
+item {
+  name: "hong-zhi-heng"
+  label: 18
+  display_name: "hong-zhi-heng"
+}
+item {
+  name: "hong-you-heng"
+  label: 19
+  display_name: "hong-you-heng"
+}
+item {
+  name: "hong-zuo-heng"
+  label: 20
+  display_name: "hong-zuo-heng"
+}

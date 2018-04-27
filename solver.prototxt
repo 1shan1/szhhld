@@ -1,0 +1,19 @@
+train_net: "/media/pengshanzhen/bb42233c-19d1-4423-b161-e5256766be8e/SSD/trafficlight/shanzhen/crop/2/trainsmall.prototxt"
+base_lr: 0.0001
+display: 100
+max_iter: 200000
+#lr_policy: "fixed"
+weight_decay: 0.00003
+snapshot: 1000
+snapshot_prefix: "/media/pengshanzhen/bb42233c-19d1-4423-b161-e5256766be8e/SSD/trafficlight/shanzhen/crop/2/try0426/model/model"
+solver_mode: GPU
+lr_policy: "step"
+gamma: 0.1
+stepsize: 100000
+type: "Adam"
+momentum: 0.9
+momentum2: 0.999
+delta: 1e-3
+
+#type: "RMSProp"
+#rms_decay: 0.98
